@@ -1,0 +1,11 @@
+{
+    "name": "zl0314/md5hasher",
+    "description": "test md5 encrypt",
+    "authors": [
+        {
+            "name": "zhanglong",
+            "email": "nice5good@126.com"
+        }
+    ],
+    "require": {}
+}
